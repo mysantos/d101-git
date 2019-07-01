@@ -1,0 +1,11 @@
+body{
+
+}
+nav{
+    background-color: cornflowerblue
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-family:  'Noto Sans KR', sans-serif;
+}
